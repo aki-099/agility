@@ -8,6 +8,7 @@
 ## row_data
   - forceplate :　Get from force plate
   - position_data : 3D skeletal coordinate data acquired using BlazePose
+  - You can get from the box link.(https://tus.box.com/s/iyp860bvrc4qz1i4iyeofc5aspmbru3t)
 
 ## ipynb
   - data_preprocessiong.ipynb : Concat force plate and 3D skeletal coordinate data
