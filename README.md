@@ -1,5 +1,3 @@
-# agility
-
 ## Python Version
 3.10.6
 
@@ -14,3 +12,7 @@
 ## ipynb
   - data_preprocessiong.ipynb : Concat force plate and 3D skeletal coordinate data
   - center_of_gravity.ipynb : Calculation of centroid coordinates
+
+## videos
+  You can check the video shot from the box link below.
+  https://tus.box.com/s/74mxmkbgf25dqcs5vs43ybr9egzf9obk
