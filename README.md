@@ -15,4 +15,4 @@
 
 ## videos
   You can check the video shot from the box link below.
-  https://tus.box.com/s/74mxmkbgf25dqcs5vs43ybr9egzf9obk
+  - https://tus.box.com/s/74mxmkbgf25dqcs5vs43ybr9egzf9obk
