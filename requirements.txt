@@ -1,3 +1,6 @@
 pandas 
 numpy
 natsort
+matplotlib
+scipy
+japanize_matplotlib
