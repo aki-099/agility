@@ -1,5 +1,3 @@
 .*
 !.gitignore
-*.png
 row_data
-csv
