@@ -5,7 +5,7 @@
 
 ## csv
   - concat_plate.csv :  In 3d_position_data.csv, data visually confirming the frame where the foot touches the ground
-  - 　syncro_frames.csv : Camera FPS information at the time of shooting
+  - syncro_frames.csv : Camera FPS information at the time of shooting
 
 ## row_data
   - forceplate :　Get from force plate
